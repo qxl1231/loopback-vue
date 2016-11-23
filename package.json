@@ -1,0 +1,9 @@
+{
+  "name": "vue-cli-template-loopback-vue",
+  "version": "2.0.0",
+  "license": "MIT",
+  "description": "A full-featured loopback-vue setup with hot-reload, lint-on-save, unit testing & css extraction.",
+  "scripts": {
+    
+  }
+}
